@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "prepo1f06616c": {}
+      },
+      "api": {
+        "prepo": {}
+      },
+      "storage": {
+        "s312920f49": {}
       }
     }
   }
